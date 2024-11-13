@@ -1,0 +1,2 @@
+1 - faire un menu de début ou faut cliquer pour lancer la game (avec les règles ?)
+    - nombre de joueurs variables ?
