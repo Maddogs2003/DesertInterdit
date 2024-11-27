@@ -151,7 +151,7 @@ class Desert extends Observable {
         p.add(Piece.CAPTEUR);
         p.add(Piece.GOUVERNAIL);
         p.add(Piece.HELICE);
-        j.setPiece(p); // POUR VERIFIER VICTOIRE
+        // j.setPiece(p); // POUR VERIFIER VICTOIRE
         j.setColor(Color.RED);
         ja.setColor(new Color(181, 151, 53));
         jb.setColor(Color.BLACK);

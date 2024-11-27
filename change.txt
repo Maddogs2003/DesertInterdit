@@ -1,2 +1,5 @@
 1 - faire un menu de début ou faut cliquer pour lancer la game (avec les règles ?)
     - nombre de joueurs variables ?
+
+width : = 200 + 800 + 600 = 1600
+height : = 900

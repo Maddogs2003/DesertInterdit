@@ -86,7 +86,7 @@ class VueCommandes extends JPanel implements Observer {
                     Ramasser.setEnabled(false);
                     JLabel end = new JLabel(); // Texte en cas de Victoire
                     end.setBounds(0, 425, 300, 150);
-                    JOptionPane.showMessageDialog(framejeu, "Vous avez Gagnes !");
+                    JOptionPane.showMessageDialog(framejeu, "Vous avez Gagne !");
                     end.setText("Good Job c:");
                     add(end);
                     repaint();
